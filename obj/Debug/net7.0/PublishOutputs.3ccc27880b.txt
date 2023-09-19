@@ -1,0 +1,7 @@
+C:\Users\HunterJohns\OneDrive - XchangeWorx\Desktop\dotnet_workspace\webapp\bin\Debug\net7.0\publish\webapp.exe
+C:\Users\HunterJohns\OneDrive - XchangeWorx\Desktop\dotnet_workspace\webapp\bin\Debug\net7.0\publish\appsettings.Development.json
+C:\Users\HunterJohns\OneDrive - XchangeWorx\Desktop\dotnet_workspace\webapp\bin\Debug\net7.0\publish\appsettings.json
+C:\Users\HunterJohns\OneDrive - XchangeWorx\Desktop\dotnet_workspace\webapp\bin\Debug\net7.0\publish\webapp.dll
+C:\Users\HunterJohns\OneDrive - XchangeWorx\Desktop\dotnet_workspace\webapp\bin\Debug\net7.0\publish\webapp.deps.json
+C:\Users\HunterJohns\OneDrive - XchangeWorx\Desktop\dotnet_workspace\webapp\bin\Debug\net7.0\publish\webapp.runtimeconfig.json
+C:\Users\HunterJohns\OneDrive - XchangeWorx\Desktop\dotnet_workspace\webapp\bin\Debug\net7.0\publish\webapp.pdb
